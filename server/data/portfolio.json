@@ -1,11 +1,11 @@
 {
   "profile": {
     "name": "YASIRU UPANANDA",
-    "title": "AI/ML ENGINEER",
-    "tagline": "> BUILDING SCALABLE SOLUTIONS AND DIGITAL EXPERIENCES",
-    "location": "Kelaniya, Sri Lanka",
+    "title": "SOFTWARE ENGINEERING UNDERGRADUATE | AI/ML ENTHUSIAST",
+    "tagline": "> BUILDING SCALABLE SOLUTIONS AND INTELLIGENT EXPERIENCES",
+    "location": "Ambalangoda, Sri Lanka",
     "email": "sasmithaupananda2221@gmail.com",
-    "phone": "+97 71 644 4822",
+    "phone": "071-6444822",
     "availability": "Open to Opportunities",
     "avatar": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop&crop=face",
     "socials": [
@@ -32,26 +32,26 @@
     ]
   },
   "level": {
-    "current": 27,
-    "xp": 23450,
-    "xpMax": 35000
+    "current": 3,
+    "xp": 3674,
+    "xpMax": 4000
   },
   "stats": [
     {
+      "label": "GPA",
+      "value": "3.71"
+    },
+    {
       "label": "Projects",
-      "value": "18+"
+      "value": "5+"
     },
     {
-      "label": "Years Exp",
-      "value": "3+"
+      "label": "Hackathons",
+      "value": "2"
     },
     {
-      "label": "Tech Stack",
-      "value": "20+"
-    },
-    {
-      "label": "Lines of Code",
-      "value": "50K+"
+      "label": "Graduation",
+      "value": "2028"
     }
   ],
   "reputation": {
@@ -104,25 +104,45 @@
   },
   "skills": [
     {
-      "category": "Frontend",
-      "level": 90,
-      "icon": "monitor",
+      "category": "AI & ML",
+      "level": 85,
+      "icon": "brain",
       "techs": [
-        "React",
-        "Next.js",
-        "TypeScript",
-        "Tailwind"
+        "Machine Learning",
+        "Deep Learning",
+        "PyTorch",
+        "Hugging Face",
+        "LLMs & RAG",
+        "LangChain & CrewAI",
+        "Gemini AI"
       ]
     },
     {
       "category": "Backend",
-      "level": 88,
+      "level": 90,
       "icon": "server",
       "techs": [
-        "Node.js",
-        "Express",
+        "Java",
         "Python",
-        "REST APIs"
+        "Spring Boot",
+        "FastAPI",
+        "Node.js",
+        "PHP",
+        "Express.js"
+      ]
+    },
+    {
+      "category": "Frontend",
+      "level": 88,
+      "icon": "monitor",
+      "techs": [
+        "React & Redux",
+        "TypeScript",
+        "JavaScript",
+        "Tailwind CSS",
+        "Vite",
+        "HTML5 & CSS",
+        "Flutter"
       ]
     },
     {
@@ -131,88 +151,108 @@
       "icon": "database",
       "techs": [
         "MongoDB",
+        "MySQL",
         "PostgreSQL",
+        "pgvector",
+        "Supabase",
         "Redis"
       ]
     },
     {
-      "category": "Cloud",
+      "category": "Cloud & Services",
       "level": 82,
       "icon": "cloud",
       "techs": [
         "AWS",
-        "Vercel",
-        "Docker"
+        "Docker",
+        "Azure",
+        "GCP",
+        "RabbitMQ",
+        "Asgardeo"
       ]
     },
     {
-      "category": "System Design",
-      "level": 86,
-      "icon": "network",
-      "techs": [
-        "Microservices",
-        "Caching",
-        "Load Balancing"
-      ]
-    },
-    {
-      "category": "DevOps",
-      "level": 80,
-      "icon": "cog",
-      "techs": [
-        "CI/CD",
-        "GitHub Actions",
-        "Kubernetes"
-      ]
-    },
-    {
-      "category": "Testing",
-      "level": 84,
-      "icon": "test",
-      "techs": [
-        "Jest",
-        "Cypress",
-        "Unit Testing"
-      ]
-    },
-    {
-      "category": "Tools",
+      "category": "Tools & Analytics",
       "level": 92,
       "icon": "wrench",
       "techs": [
-        "Git",
-        "VS Code",
-        "Figma",
-        "Postman"
+        "Git & GitHub",
+        "GitLab",
+        "Postman",
+        "Jira",
+        "Power BI"
       ]
     }
   ],
   "projects": [
     {
-      "id": "smart-diet-sl",
-      "title": "SMART DIET SL",
-      "description": "Intelligent dietary health assistant and diet recommender application tailored for Sri Lankan users, helping monitor nutrition and body wellness.",
-      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400&h=250&fit=crop",
+      "id": "neurochess",
+      "title": "NEUROCHESS",
+      "description": "AI-Powered Chess Prediction Platform integrating a PyTorch neural network for FEN-based move prediction and a RAG pipeline using Gemini AI and pgvector for opponent strategy analysis.",
+      "image": "https://images.unsplash.com/photo-1529699211952-734e80c4d42b?w=400&h=250&fit=crop",
       "tags": [
-        "React Native",
-        "Node.js",
-        "MongoDB",
-        "ML Recommendation"
+        "React",
+        "FastAPI",
+        "PyTorch",
+        "Gemini AI",
+        "Redis",
+        "Docker"
       ],
-      "url": "https://github.com/YasiruUpananda/Smart-Diet-SL"
+      "url": "https://github.com/YasiruUpananda"
     },
     {
       "id": "tedx-uok",
-      "title": "TEDx UOK",
-      "description": "Official event platform and portal for TEDx University of Kelaniya, showcasing speakers, event schedule telemetry, and ticketing channels.",
-      "image": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400&h=250&fit=crop",
+      "title": "TEDX-UOK",
+      "description": "Official TEDx-UoK event platform designed as a responsive digital hub with dynamic content management and high-performance frontend for SEO.",
+      "image": "https://images.unsplash.com/photo-1475721027785-f74eccf877e2?w=400&h=250&fit=crop",
       "tags": [
-        "Next.js",
         "React",
+        "TypeScript",
+        "Vite",
         "Tailwind CSS",
-        "Vercel"
+        "Supabase"
       ],
-      "url": "https://github.com/YasiruUpananda/TEDx-UOK"
+      "url": "https://github.com/YasiruUpananda"
+    },
+    {
+      "id": "smart-diet-sl",
+      "title": "SMART DIET SL",
+      "description": "MERN stack application for nutrition and diet planning tailored for Sri Lankan diets, integrating AI advice, e-commerce, and media management.",
+      "image": "https://images.unsplash.com/photo-1498837167922-ddd27525d352?w=400&h=250&fit=crop",
+      "tags": [
+        "React",
+        "Node.js",
+        "Express",
+        "MongoDB",
+        "Redux"
+      ],
+      "url": "https://github.com/YasiruUpananda"
+    },
+    {
+      "id": "bookfair-system",
+      "title": "BOOKFAIR STALL SYSTEM",
+      "description": "Full-stack platform for book-fair stall reservation and management, enabling QR-based confirmations and payment workflows.",
+      "image": "https://images.unsplash.com/photo-1524995997946-a1c2e315a42f?w=400&h=250&fit=crop",
+      "tags": [
+        "React",
+        "Spring Boot",
+        "Java",
+        "MySQL",
+        "Tailwind CSS"
+      ],
+      "url": "https://github.com/YasiruUpananda"
+    },
+    {
+      "id": "cricket-league",
+      "title": "CRICKET LEAGUE WEBSITE",
+      "description": "Full-stack cricket league platform with live ball-by-ball scoring, dynamic leaderboards, and a secure administration panel.",
+      "image": "https://images.unsplash.com/photo-1540747913346-19e32dc3e97e?w=400&h=250&fit=crop",
+      "tags": [
+        "PHP",
+        "HTML",
+        "MySQL"
+      ],
+      "url": "https://github.com/YasiruUpananda"
     }
   ],
   "traits": [
@@ -239,57 +279,68 @@
   ],
   "achievements": [
     {
-      "title": "LeetCode Knight",
-      "description": "Solved 500+ problems",
-      "year": 2023,
+      "title": "Junior Hackathon 2025",
+      "description": "1st Runner-Up",
+      "year": 2025,
       "icon": "trophy"
     },
     {
-      "title": "Hackathon Winner",
-      "description": "1st place at TechFest 2024",
+      "title": "Inter University Chess Championship",
+      "description": "2nd Runner-Up",
       "year": 2024,
       "icon": "medal"
     },
     {
-      "title": "Open Source Contributor",
-      "description": "50+ merged PRs",
-      "year": 2023,
-      "icon": "code"
+      "title": "SESA President",
+      "description": "Software Engineering Students' Association",
+      "year": 2026,
+      "icon": "users"
     },
     {
-      "title": "AWS Certified",
-      "description": "Solutions Architect Associate",
-      "year": 2024,
-      "icon": "cloud"
+      "title": "Chess Captain",
+      "description": "University of Kelaniya Chess Team",
+      "year": 2026,
+      "icon": "star"
+    },
+    {
+      "title": "Project Coordinator",
+      "description": "Y2NPRO, IEEE Young Professionals Sri Lanka",
+      "year": 2026,
+      "icon": "users"
     }
   ],
   "abilities": [
     {
-      "title": "PROBLEM SOLVER",
-      "description": "Breaks down complex challenges into actionable solutions.",
+      "title": "PROBLEM SOLVING",
+      "description": "Strong foundation in Data Structures & Algorithms and object-oriented principles.",
       "icon": "brain"
     },
     {
-      "title": "FAST LEARNER",
-      "description": "Quickly adapts to new technologies and frameworks.",
-      "icon": "zap"
-    },
-    {
-      "title": "TEAM PLAYER",
-      "description": "Collaborates effectively in cross-functional teams.",
+      "title": "LEADERSHIP",
+      "description": "Experienced in leading teams and coordinating events (SESA President, Y2NPRO).",
       "icon": "users"
     },
     {
-      "title": "INNOVATOR",
-      "description": "Brings creative ideas to product and architecture.",
-      "icon": "lightbulb"
+      "title": "TEAMWORK & COMMUNICATION",
+      "description": "Collaborated within Agile teams (Sawiya Organization) delivering real-world solutions.",
+      "icon": "message-circle"
+    },
+    {
+      "title": "CONTINUOUS LEARNING",
+      "description": "Passionate about exploring modern AI/ML technologies and integrating them into full-stack apps.",
+      "icon": "zap"
     }
   ],
   "techStack": [
     {
-      "name": "JavaScript",
-      "icon": "javascript",
-      "color": "#F7DF1E"
+      "name": "Python",
+      "icon": "python",
+      "color": "#3776AB"
+    },
+    {
+      "name": "Java",
+      "icon": "java",
+      "color": "#007396"
     },
     {
       "name": "TypeScript",
@@ -302,9 +353,14 @@
       "color": "#61DAFB"
     },
     {
-      "name": "Next.js",
-      "icon": "next.js",
-      "color": "#ffffff"
+      "name": "Spring Boot",
+      "icon": "springboot",
+      "color": "#6DB33F"
+    },
+    {
+      "name": "PyTorch",
+      "icon": "pytorch",
+      "color": "#EE4C2C"
     },
     {
       "name": "Node.js",
@@ -312,19 +368,9 @@
       "color": "#339933"
     },
     {
-      "name": "Python",
-      "icon": "python",
-      "color": "#3776AB"
-    },
-    {
-      "name": "Tailwind",
-      "icon": "tailwindcss",
-      "color": "#06B6D4"
-    },
-    {
-      "name": "MongoDB",
-      "icon": "mongodb",
-      "color": "#47A248"
+      "name": "FastAPI",
+      "icon": "fastapi",
+      "color": "#009688"
     },
     {
       "name": "PostgreSQL",
@@ -332,9 +378,14 @@
       "color": "#4169E1"
     },
     {
-      "name": "AWS",
-      "icon": "aws",
-      "color": "#FF9900"
+      "name": "MongoDB",
+      "icon": "mongodb",
+      "color": "#47A248"
+    },
+    {
+      "name": "MySQL",
+      "icon": "mysql",
+      "color": "#4479A1"
     },
     {
       "name": "Docker",
@@ -342,9 +393,19 @@
       "color": "#2496ED"
     },
     {
-      "name": "Git",
-      "icon": "git",
-      "color": "#F05032"
+      "name": "AWS",
+      "icon": "aws",
+      "color": "#FF9900"
+    },
+    {
+      "name": "PHP",
+      "icon": "php",
+      "color": "#777BB4"
+    },
+    {
+      "name": "Redux",
+      "icon": "redux",
+      "color": "#764ABC"
     }
   ]
 }

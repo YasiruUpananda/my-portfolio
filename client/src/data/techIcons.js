@@ -10,8 +10,14 @@ import {
   SiPostgresql,
   SiDocker,
   SiGit,
+  SiSpringboot,
+  SiPytorch,
+  SiFastapi,
+  SiMysql,
+  SiPhp,
+  SiRedux,
 } from "react-icons/si";
-import { FaAws } from "react-icons/fa6";
+import { FaAws, FaJava } from "react-icons/fa6";
 
 export const TECH_ICON_MAP = {
   javascript: { Icon: SiJavascript, color: "#F7DF1E" },
@@ -29,6 +35,13 @@ export const TECH_ICON_MAP = {
   aws: { Icon: FaAws, color: "#FF9900" },
   docker: { Icon: SiDocker, color: "#2496ED" },
   git: { Icon: SiGit, color: "#F05032" },
+  java: { Icon: FaJava, color: "#007396" },
+  springboot: { Icon: SiSpringboot, color: "#6DB33F" },
+  pytorch: { Icon: SiPytorch, color: "#EE4C2C" },
+  fastapi: { Icon: SiFastapi, color: "#009688" },
+  mysql: { Icon: SiMysql, color: "#4479A1" },
+  php: { Icon: SiPhp, color: "#777BB4" },
+  redux: { Icon: SiRedux, color: "#764ABC" },
 };
 
 export function resolveTechIcon(tech) {
